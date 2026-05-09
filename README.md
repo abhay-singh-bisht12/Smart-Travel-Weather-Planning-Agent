@@ -120,41 +120,49 @@ streamlit run app.py
 
 ---
 
+
 # 📸 Screenshots
 
 ## 🏠 Home Page
 
-![Home](image/home.png)
+![Home](smart_travel_agent/images/home.png)
 
 ---
 
 ## 🌦️ Weather & Travel Analytics
 
-![Graph](image/graph.png)
+![Graph](smart_travel_agent/images/graph.png)
 
 ---
 
 ## 💰 Budget Analytics
 
-![Budget](image/budget.png)
+![Budget](smart_travel_agent/images/budget.png)
 
 ---
 
 ## 🏨 Hotel Recommendation Cards
 
-![Hotels](image/hotel.png)
+![Hotels](smart_travel_agent/images/hotel.png)
 
 ---
 
 ## 📄 PDF Export Feature
 
-![PDF](image/pdf.png)
+![PDF](smart_travel_agent/images/pdf.png)
 
 ---
 
 ## 🧭 Final AI Travel Result
 
-![Result](image/result.png)
+![Result](smart_travel_agent/images/result.png)
+
+
+---
+
+## 🧭 Final AI Travel Result
+
+![Result](images/result.png)
 
 ---
 
