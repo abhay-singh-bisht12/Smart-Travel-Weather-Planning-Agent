@@ -158,11 +158,9 @@ streamlit run app.py
 ![Result](smart_travel_agent/images/result.png)
 
 
----
 
-## 🧭 Final AI Travel Result
 
-![Result](images/result.png)
+
 
 ---
 
