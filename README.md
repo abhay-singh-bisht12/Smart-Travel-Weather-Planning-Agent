@@ -153,7 +153,7 @@ streamlit run app.py
 
 ---
 
-## 🧭 Final AI Travel Result
+## 🧭 Temperature
 
 ![Result](smart_travel_agent/images/result.png)
 
