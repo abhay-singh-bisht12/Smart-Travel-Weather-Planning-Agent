@@ -124,37 +124,37 @@ streamlit run app.py
 
 ## 🏠 Home Page
 
-![Home](images/home.png)
+![Home](image/home.png)
 
 ---
 
 ## 🌦️ Weather & Travel Analytics
 
-![Graph](images/graph.png)
+![Graph](image/graph.png)
 
 ---
 
 ## 💰 Budget Analytics
 
-![Budget](images/budget.png)
+![Budget](image/budget.png)
 
 ---
 
 ## 🏨 Hotel Recommendation Cards
 
-![Hotels](images/hotel.png)
+![Hotels](image/hotel.png)
 
 ---
 
 ## 📄 PDF Export Feature
 
-![PDF](images/pdf.png)
+![PDF](image/pdf.png)
 
 ---
 
 ## 🧭 Final AI Travel Result
 
-![Result](images/result.png)
+![Result](image/result.png)
 
 ---
 
@@ -173,6 +173,5 @@ streamlit run app.py
 **Abhay Singh Bisht**
 
 * GitHub: https://github.com/abhay-singh-bisht12
-* LinkedIn: https://www.linkedin.com/in/abhay-singh-bisht/
 
 ---
