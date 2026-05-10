@@ -1,0 +1,11 @@
+streamlit
+requests
+python-dotenv
+pandas
+plotly
+fpdf2
+
+# LLM + agent framework
+google-genai
+langchain
+crewai
