@@ -6,7 +6,9 @@ This app helps users plan a trip by generating weather-aware travel dates, budge
 
 ---
 
-## Live-https://smart-travel-weather-planning-agent-srmbdflbvknlgcbukik6uj.streamlit.app/
+## 🔴 Live Demo
+
+🚀 **Live App:** [Smart Travel & Weather Planning Agent](https://smart-travel-weather-planning-agent-srmbdflbvknlgcbukik6uj.streamlit.app/)
 
 ## 🚀 Live Features
 
